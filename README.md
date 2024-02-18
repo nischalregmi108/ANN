@@ -1,0 +1,1 @@
+This repository contains programs other resources that I created for teaching a course on Artifcial Neural Networks. The materials, specifically the program codes, are mostly based on the examples and problems found in the book "Neural Networks and Learning Machines" by Simon Haykin
